@@ -1,0 +1,13 @@
+# PMBOK 8 source configuration
+#
+# Put the absolute path to your own copy of the PMBOK Guide 8th Edition below,
+# uncommented, on a single line. Example:
+#
+# /Users/you/Documents/PMBOK_8th_edition.pdf
+#
+# Leave empty to run in UNVERIFIED mode — the plugin works fully either way,
+# using its own knowledge of the framework, with section-level rather than
+# page-verified citation.
+#
+# You can also just upload the PDF in conversation for a single session,
+# or run /setup-source.
